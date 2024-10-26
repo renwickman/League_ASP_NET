@@ -1,9 +1,10 @@
-@page "{id}"
+@page "/team/{id}"
 @using League.Pages.Teams 
 @model TeamModel
 
 @{
-  ViewData["Title"] = "NFL Team - " + @Html.DisplayFor(model => model.Team.Name);
+    ViewData["Title"] = $"NFL Team - {@Html.DisplayFor(model => model.Team.Name)}";
+    @* ViewData["Title"] = "NFL Team - " + @Html.DisplayFor(model => model.Team.Name); *@
 }
 
 <div class="jumbotron p-2">

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "3VNS0NeTSa08TWwmdA8QaXYnQcWZWnyY7nP/Uuqt+eQ=",
+  "Hash": "4rgCDhsy08IGFmc4RFAXVi8kJlWkLo7HQuJv5mSPBZc=",
   "Source": "LeagueProject",
   "BasePath": "_content/LeagueProject",
   "Mode": "Default",
@@ -16,44 +16,6 @@
     }
   ],
   "Assets": [
-    {
-      "Identity": "C:\\Users\\renwi\\Desktop\\CsharpProjects\\LeagueProject\\obj\\Debug\\net8.0\\scopedcss\\bundle\\LeagueProject.styles.css",
-      "SourceId": "LeagueProject",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\renwi\\Desktop\\CsharpProjects\\LeagueProject\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
-      "BasePath": "_content/LeagueProject",
-      "RelativePath": "LeagueProject.styles.css",
-      "AssetKind": "All",
-      "AssetMode": "CurrentProject",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "ScopedCss",
-      "AssetTraitValue": "ApplicationBundle",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\renwi\\Desktop\\CsharpProjects\\LeagueProject\\obj\\Debug\\net8.0\\scopedcss\\bundle\\LeagueProject.styles.css"
-    },
-    {
-      "Identity": "C:\\Users\\renwi\\Desktop\\CsharpProjects\\LeagueProject\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\LeagueProject.bundle.scp.css",
-      "SourceId": "LeagueProject",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\renwi\\Desktop\\CsharpProjects\\LeagueProject\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
-      "BasePath": "_content/LeagueProject",
-      "RelativePath": "LeagueProject.bundle.scp.css",
-      "AssetKind": "All",
-      "AssetMode": "Reference",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "ScopedCss",
-      "AssetTraitValue": "ProjectBundle",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\renwi\\Desktop\\CsharpProjects\\LeagueProject\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\LeagueProject.bundle.scp.css"
-    },
     {
       "Identity": "C:\\Users\\renwi\\Desktop\\CsharpProjects\\LeagueProject\\wwwroot\\css\\site.css",
       "SourceId": "LeagueProject",

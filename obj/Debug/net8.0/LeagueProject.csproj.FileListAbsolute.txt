@@ -40,9 +40,7 @@ C:\Users\renwi\Desktop\CsharpProjects\LeagueProject\obj\Debug\net8.0\staticwebas
 C:\Users\renwi\Desktop\CsharpProjects\LeagueProject\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.LeagueProject.props
 C:\Users\renwi\Desktop\CsharpProjects\LeagueProject\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.LeagueProject.props
 C:\Users\renwi\Desktop\CsharpProjects\LeagueProject\obj\Debug\net8.0\staticwebassets.pack.json
-C:\Users\renwi\Desktop\CsharpProjects\LeagueProject\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\renwi\Desktop\CsharpProjects\LeagueProject\obj\Debug\net8.0\scopedcss\bundle\LeagueProject.styles.css
-C:\Users\renwi\Desktop\CsharpProjects\LeagueProject\obj\Debug\net8.0\scopedcss\projectbundle\LeagueProject.bundle.scp.css
 C:\Users\renwi\Desktop\CsharpProjects\LeagueProject\obj\Debug\net8.0\LeaguePr.3CAD3B8D.Up2Date
 C:\Users\renwi\Desktop\CsharpProjects\LeagueProject\obj\Debug\net8.0\LeagueProject.dll
 C:\Users\renwi\Desktop\CsharpProjects\LeagueProject\obj\Debug\net8.0\refint\LeagueProject.dll
@@ -131,3 +129,4 @@ C:\Users\renwi\Desktop\CsharpProjects\LeagueProject\bin\Debug\net8.0\ru\Microsof
 C:\Users\renwi\Desktop\CsharpProjects\LeagueProject\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\renwi\Desktop\CsharpProjects\LeagueProject\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\renwi\Desktop\CsharpProjects\LeagueProject\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\renwi\Desktop\CsharpProjects\LeagueProject\obj\Debug\net8.0\LeagueProject.sourcelink.json
