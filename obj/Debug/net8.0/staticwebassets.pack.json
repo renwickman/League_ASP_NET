@@ -5,8 +5,8 @@
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\renwi\\Desktop\\CsharpProjects\\LeagueProject\\wwwroot\\favicon.ico",
-      "PackagePath": "staticwebassets\\favicon.ico"
+      "Id": "C:\\Users\\renwi\\Desktop\\CsharpProjects\\LeagueProject\\wwwroot\\image\\favicon.ico",
+      "PackagePath": "staticwebassets\\image\\favicon.ico"
     },
     {
       "Id": "C:\\Users\\renwi\\Desktop\\CsharpProjects\\LeagueProject\\wwwroot\\image\\nfl\\logo\\ari.png",

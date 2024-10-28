@@ -23,9 +23,15 @@ namespace League.Pages.Players
 
     public Player Player { get; set; }
 
-    public async Task OnGetAsync(string Id)
+    public async Task<IActionResult> OnGetAsync(string Id)
     {
-      Player = await _context.Players.FindAsync(Id);
+      Player = await _context.Players.FirstOrDefaultAsync(x => x.PlayerId == Id);
+      if (Player == null) {
+        return NotFound();
+      }
+      return Page();
     }
+
+
   }
 }

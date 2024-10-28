@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "4rgCDhsy08IGFmc4RFAXVi8kJlWkLo7HQuJv5mSPBZc=",
+  "Hash": "t0aLqTFm1NrpxPKTioGDB5ss8tTascReMsJsIAorZls=",
   "Source": "LeagueProject",
   "BasePath": "_content/LeagueProject",
   "Mode": "Default",
@@ -36,12 +36,12 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\renwi\\Desktop\\CsharpProjects\\LeagueProject\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\renwi\\Desktop\\CsharpProjects\\LeagueProject\\wwwroot\\image\\favicon.ico",
       "SourceId": "LeagueProject",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\renwi\\Desktop\\CsharpProjects\\LeagueProject\\wwwroot\\",
       "BasePath": "_content/LeagueProject",
-      "RelativePath": "favicon.ico",
+      "RelativePath": "image/favicon.ico",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -52,7 +52,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\favicon.ico"
+      "OriginalItemSpec": "wwwroot\\image\\favicon.ico"
     },
     {
       "Identity": "C:\\Users\\renwi\\Desktop\\CsharpProjects\\LeagueProject\\wwwroot\\image\\nfl\\logo\\ari.png",
