@@ -104,7 +104,7 @@ namespace League.Pages.Players
     }
 
     // return a string for the class of each player <a> tag, bold for starter, gold for favorite
-    
+
     public string PlayerClass(Player Player)
     {
       string Class = "d-flex";
