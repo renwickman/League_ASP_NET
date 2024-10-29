@@ -14,9 +14,12 @@ namespace League.Pages.Players
 
     private readonly LeagueContext _context;
 
+    //private readonly ILogger _logger;
+
     public PlayerModel(LeagueContext context)
     {
       _context = context;
+      //_logger = logger;
     }
 
     // load a single player based on Id
@@ -25,12 +28,31 @@ namespace League.Pages.Players
 
     public async Task<IActionResult> OnGetAsync(string Id)
     {
-      Player = await _context.Players.FirstOrDefaultAsync(x => x.PlayerId == Id);
-      if (Player == null) {
-        return NotFound();
-      }
-      return Page();
-    }
+            try
+            {
+                var temp_player = await _context.Players.FirstOrDefaultAsync(x => x.PlayerId == Id);
+
+                if (temp_player == null)
+                {
+                    return NotFound();
+
+                }
+                Player = temp_player;
+
+                return Page();
+
+            }
+            catch (Exception ex)
+
+            {
+                return NotFound();
+            }
+            finally
+            {
+                Console.WriteLine($"{Player.PlayerId}");
+
+            }
+        }
 
 
   }

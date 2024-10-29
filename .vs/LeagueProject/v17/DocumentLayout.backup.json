@@ -1,0 +1,127 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\renwi\\Desktop\\CsharpProjects\\LeagueProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{01281D22-8052-4584-BBC1-161FD3C09947}|LeagueProject.csproj|c:\\users\\renwi\\desktop\\csharpprojects\\leagueproject\\pages\\players\\player.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01281D22-8052-4584-BBC1-161FD3C09947}|LeagueProject.csproj|solutionrelative:pages\\players\\player.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01281D22-8052-4584-BBC1-161FD3C09947}|LeagueProject.csproj|c:\\users\\renwi\\desktop\\csharpprojects\\leagueproject\\pages\\players\\player.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{01281D22-8052-4584-BBC1-161FD3C09947}|LeagueProject.csproj|solutionrelative:pages\\players\\player.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01281D22-8052-4584-BBC1-161FD3C09947}|LeagueProject.csproj|c:\\users\\renwi\\desktop\\csharpprojects\\leagueproject\\data\\leaguecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01281D22-8052-4584-BBC1-161FD3C09947}|LeagueProject.csproj|solutionrelative:data\\leaguecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01281D22-8052-4584-BBC1-161FD3C09947}|LeagueProject.csproj|c:\\users\\renwi\\desktop\\csharpprojects\\leagueproject\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01281D22-8052-4584-BBC1-161FD3C09947}|LeagueProject.csproj|solutionrelative:models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01281D22-8052-4584-BBC1-161FD3C09947}|LeagueProject.csproj|c:\\users\\renwi\\desktop\\csharpprojects\\leagueproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01281D22-8052-4584-BBC1-161FD3C09947}|LeagueProject.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 119,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 281,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\renwi\\Desktop\\CsharpProjects\\LeagueProject\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\renwi\\Desktop\\CsharpProjects\\LeagueProject\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T00:16:50.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LeagueContext.cs",
+              "DocumentMoniker": "C:\\Users\\renwi\\Desktop\\CsharpProjects\\LeagueProject\\Data\\LeagueContext.cs",
+              "RelativeDocumentMoniker": "Data\\LeagueContext.cs",
+              "ToolTip": "C:\\Users\\renwi\\Desktop\\CsharpProjects\\LeagueProject\\Data\\LeagueContext.cs",
+              "RelativeToolTip": "Data\\LeagueContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T00:16:21.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Player.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\renwi\\Desktop\\CsharpProjects\\LeagueProject\\Pages\\Players\\Player.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Players\\Player.cshtml.cs",
+              "ToolTip": "C:\\Users\\renwi\\Desktop\\CsharpProjects\\LeagueProject\\Pages\\Players\\Player.cshtml.cs",
+              "RelativeToolTip": "Pages\\Players\\Player.cshtml.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T00:09:56.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Player.cshtml",
+              "DocumentMoniker": "C:\\Users\\renwi\\Desktop\\CsharpProjects\\LeagueProject\\Pages\\Players\\Player.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Players\\Player.cshtml",
+              "ToolTip": "C:\\Users\\renwi\\Desktop\\CsharpProjects\\LeagueProject\\Pages\\Players\\Player.cshtml",
+              "RelativeToolTip": "Pages\\Players\\Player.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T00:19:44.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\renwi\\Desktop\\CsharpProjects\\LeagueProject\\Models\\Player.cs",
+              "RelativeDocumentMoniker": "Models\\Player.cs",
+              "ToolTip": "C:\\Users\\renwi\\Desktop\\CsharpProjects\\LeagueProject\\Models\\Player.cs",
+              "RelativeToolTip": "Models\\Player.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T16:58:47.947Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
